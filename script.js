@@ -79,4 +79,4 @@ function iniciarJogo(){
     snake.unshift(newHead);
 }
 
-let jogo = setInterval(iniciarJogo, 125);
+let jogo = setInterval(iniciarJogo, 100);
